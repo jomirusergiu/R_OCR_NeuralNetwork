@@ -188,7 +188,7 @@ Output
 [rockk@arch Demo]$ g++ main.cpp 
 [rockk@arch Demo]$ ./a.out
 Creating Patterns
-Creating Neural networks
+Creating Neural network
 Displaying Input for all patterns
 
 0 0 0 1 1 0 0 0 
