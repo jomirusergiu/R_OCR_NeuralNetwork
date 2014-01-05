@@ -1,6 +1,6 @@
 //
 //  Main.cpp
-//  R_BP_NeuralNetwork
+//  R_OCR_NeuralNetwork
 //
 //  Created by RocKK on 04/01/14.
 //  Copyright (c) 2014 RocKK.
