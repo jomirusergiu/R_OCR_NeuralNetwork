@@ -92,7 +92,7 @@ int main()
 
 
     //We create the networks
-    cout << "Creating Neural networks" << endl;
+    cout << "Creating Neural network" << endl;
 
     R_BP_Net net;//Our neural network object
     net.create(PATTERN_SIZE,NETWORK_INPUTNEURONS,NETWORK_OUTPUT,HIDDEN_LAYERS,HIDDEN_LAYERS);
